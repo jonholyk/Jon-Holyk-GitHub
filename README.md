@@ -6,7 +6,7 @@ Welcome! This repository showcases a selection of coding work I’ve completed a
 ## 📌 What You'll Find
 
 ### SQL
-- `beginner update_leaders_score_procedure.sql': the beginning segment of a procedure in SQL
+- 'beginner update_leaders_score_procedure.sql': the beginning segment of a procedure in SQL
 - 'update_leaders_score_procedure.sql': takes the beginnger file to the next level adding in a transaction to ROLLBACK and COMMIT
 
 
