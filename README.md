@@ -1,5 +1,5 @@
 # Jon-Holyk-GitHub
-# Analytics Portfolio
+# Data Portfolio
 
 Welcome! This repository showcases a selection of coding work I’ve completed as part of my professional development and project-based learning. The goal is to demonstrate my technical skills and ability to apply analytics to solve real-world problems.
 
