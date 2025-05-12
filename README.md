@@ -13,7 +13,7 @@ Welcome! This repository showcases a selection of coding work I’ve completed a
 
 ### Dashboards
 - Cognos Analytics Dashboards: Business intelligence dashboards developed using IBM Cognos, with integrated data sources and drill-down capabilities for performance tracking.
-- Excel Dashboards: Interactive reports built with pivot tables, slicers, and conditional formatting to visualize KPIs, trends, and operational metrics.
+- Excel Dashboards: Interactive reports built with pivot tables, pivot charts, and slicers to visualize KPIs, trends, and operational metrics.
 
 ## 🧠 Purpose
 This repo is part of my ongoing learning in analytics. These files are examples from my professional accomplishments and completed coursework through Coursera and LinkedIn Learning. This space to practice and demonstrate those skills.
