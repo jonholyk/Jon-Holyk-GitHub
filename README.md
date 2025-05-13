@@ -13,6 +13,7 @@ Welcome! This repository showcases a selection of coding work I’ve completed a
 
 ### Dashboards
 - Cognos Analytics Dashboards: Business intelligence dashboards developed using IBM Cognos, with integrated data sources and drill-down capabilities for performance tracking.
+- Google Looker Dashboards: Dynamic, browser-based dashboards built with Google Looker Studio, featuring real-time data connections and clean visual layouts designed for executive-level reporting.
 - Excel Dashboards: Interactive reports built with PivotTables, PivotCharts, and slicers to visualize KPIs, trends, and operational metrics.
 
 ## 🧠 Purpose
