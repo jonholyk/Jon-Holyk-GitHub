@@ -11,6 +11,9 @@ Welcome! This repository showcases a selection of coding work I’ve completed a
 - Tables & Views: This folder includes scripts that define SQL views—virtual tables created by storing SELECT query results. These examples demonstrate how to simplify complex queries, encapsulate logic for reuse, and improve readability by abstracting data retrieval.
 - Procedures & Transactions: Contains stored procedures and transaction logic. These scripts demonstrate how to encapsulate SQL operations into reusable procedures and ensure data integrity using ACID-compliant transactions, including conditional logic, exception handling, and rollback operations.
 
+### Python
+- These scripts (namely dataqualitychecks.py and mytests.py) were created to allow reuse in performing data quality checks on newly imported or refreshed data in a MySQL or PostgreSQL database.
+
 ### Dashboards
 - Cognos Analytics Dashboards: Business intelligence dashboards developed using IBM Cognos, with integrated data sources and drill-down capabilities for performance tracking.
 - Google Looker Dashboards: Dynamic, browser-based dashboards built with Google Looker Studio, featuring real-time data connections and clean visual layouts designed for executive-level reporting.
